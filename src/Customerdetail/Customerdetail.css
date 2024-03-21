@@ -1,0 +1,26 @@
+.order-summary{
+    box-sizing: border-box;
+    width: 400px;
+    height: 600px;
+    border: 1px solid grey;
+    margin: auto;
+}
+.Customer-display{
+    display: flex;
+    margin:100px 200px ;
+}
+.order-product{
+    display: flex;
+    background-color: rgb(216, 216, 216);
+    padding: 10px;
+    align-items: center;
+}
+.order-product p{
+    font-size:11px;
+    margin-left: 10px;
+}
+.ordersubmit-button{
+    display: flex;
+    margin: auto;
+    margin-top: 50px;
+}
